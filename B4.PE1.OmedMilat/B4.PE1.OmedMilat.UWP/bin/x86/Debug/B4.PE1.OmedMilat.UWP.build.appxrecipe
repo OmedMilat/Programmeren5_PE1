@@ -385,6 +385,36 @@
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\B4.PE1.OmedMilat.dll">
       <PackagePath>B4.PE1.OmedMilat.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica1.jpg">
+      <PackagePath>images\jessica1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica10.jpg">
+      <PackagePath>images\jessica10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica2.jpg">
+      <PackagePath>images\jessica2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica3.jpg">
+      <PackagePath>images\jessica3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica4.jpg">
+      <PackagePath>images\jessica4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica5.jpg">
+      <PackagePath>images\jessica5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica6.jpg">
+      <PackagePath>images\jessica6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica7.jpg">
+      <PackagePath>images\jessica7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica8.jpg">
+      <PackagePath>images\jessica8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica9.jpg">
+      <PackagePath>images\jessica9.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

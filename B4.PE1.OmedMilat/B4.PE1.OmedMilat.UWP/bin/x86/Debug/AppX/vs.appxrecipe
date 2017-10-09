@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-10-01T16:43:58.539</Modified>
+      <Modified>2017-10-06T12:51:57.372</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\bin\x86\Debug\B4.PE1.OmedMilat.UWP.exe">
       <PackagePath>entrypoint\B4.PE1.OmedMilat.UWP.exe</PackagePath>
-      <Modified>2017-10-01T16:43:57.992</Modified>
+      <Modified>2017-10-06T12:51:56.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qais187\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,47 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\B4.PE1.OmedMilat.dll">
       <PackagePath>B4.PE1.OmedMilat.dll</PackagePath>
-      <Modified>2017-10-01T16:43:35.312</Modified>
+      <Modified>2017-10-06T12:51:55.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica1.jpg">
+      <PackagePath>images\jessica1.jpg</PackagePath>
+      <Modified>2017-09-26T17:38:25.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica10.jpg">
+      <PackagePath>images\jessica10.jpg</PackagePath>
+      <Modified>2017-01-08T13:26:19.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica2.jpg">
+      <PackagePath>images\jessica2.jpg</PackagePath>
+      <Modified>2017-08-15T17:26:39.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica3.jpg">
+      <PackagePath>images\jessica3.jpg</PackagePath>
+      <Modified>2017-08-24T10:59:13.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica4.jpg">
+      <PackagePath>images\jessica4.jpg</PackagePath>
+      <Modified>2017-08-27T09:08:52.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica5.jpg">
+      <PackagePath>images\jessica5.jpg</PackagePath>
+      <Modified>2017-04-24T11:28:43.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica6.jpg">
+      <PackagePath>images\jessica6.jpg</PackagePath>
+      <Modified>2017-08-03T20:54:07.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica7.jpg">
+      <PackagePath>images\jessica7.jpg</PackagePath>
+      <Modified>2014-04-26T00:23:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica8.jpg">
+      <PackagePath>images\jessica8.jpg</PackagePath>
+      <Modified>2016-08-09T17:58:18.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\images\jessica9.jpg">
+      <PackagePath>images\jessica9.jpg</PackagePath>
+      <Modified>2016-10-02T21:51:31.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -688,11 +728,11 @@
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-10-01T16:37:28.388</Modified>
+      <Modified>2017-10-06T12:46:00.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat.UWP\bin\x86\Debug\Core\B4.PE1.OmedMilat.UWP.exe">
       <PackagePath>B4.PE1.OmedMilat.UWP.exe</PackagePath>
-      <Modified>2017-10-01T16:43:58.529</Modified>
+      <Modified>2017-10-06T12:51:57.359</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

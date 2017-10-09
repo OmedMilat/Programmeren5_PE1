@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>AVD_droid_N5_23_x86_apps_phone</SelectedDevice>
     <DefaultDevice>AVD_droid_N5_23_x86_apps_phone</DefaultDevice>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
 </Project>

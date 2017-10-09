@@ -1,3 +1,10 @@
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.csprojResolveAssemblyReference.cache
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.csproj.CoreCompileInputs.cache
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.MainPage.xaml.g.cs
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.App.xaml.g.cs
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.PicturePage.xaml.g.cs
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.WikiPage.xaml.g.cs
+C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.PictureDetail.xaml.g.cs
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\B4.PE1.OmedMilat.dll
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\B4.PE1.OmedMilat.pdb
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\Xamarin.Forms.Core.dll
@@ -8,11 +15,5 @@ C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.Ome
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.csprojResolveAssemblyReference.cache
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.csproj.CoreCompileInputs.cache
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.MainPage.xaml.g.cs
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.App.xaml.g.cs
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.dll
 C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.pdb
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.PicturePage.xaml.g.cs
-C:\Users\qais187\Documents\School\HBO\Programmeren 5\B4.PE1.OmedMilat\B4.PE1.OmedMilat\B4.PE1.OmedMilat\obj\Debug\B4.PE1.OmedMilat.WikiPage.xaml.g.cs
