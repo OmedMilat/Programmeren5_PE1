@@ -1,11 +1,97 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="B4.PE1.OmedMilat.WikiPage">
+             x:Class="B4.PE1.OmedMilat.WikiPage"
+             Title="Jessica Alba"
+             Padding="5">
+             
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span FontAttributes="Bold">Jessica Marie Alba</Span>
+                        <Span>(born April 28,1981) is an American actress and businesswoman. She has won various awards for her acting, including the Choice Actress Teen Choice Award and Saturn Award for Best Actress on Television, and a </Span>
+                        <Span ForegroundColor="Blue" Text=" Golden Globe " ></Span> <Span>nomination for her lead role in the television series</Span>
+                        <Span ForegroundColor="Blue" Text=" Dark Angel."> </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Grid Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="300"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+            
+            <Label Grid.ColumnSpan="2" FontAttributes="Bold" HorizontalTextAlignment="Center">Jessica Alba</Label>
+            <Image Grid.ColumnSpan="2" Grid.Row="1" HorizontalOptions="Center" Margin="0,0,0,8" >
+                    <Image.Source>
+                        <OnPlatform x:TypeArguments="ImageSource">
+                            <On Platform="iOS,Android">jessica9.jpg</On>
+                            <On Platform="Windows">images/jessica9.jpg</On>
+                        </OnPlatform>
+                    </Image.Source>
+                </Image>
+                <Label Grid.Row="2">Born</Label>
+                <Label Grid.Column="1" Grid.Row="2">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span>Jessica Marie Alba 
+April 28, 1981(age 36)</Span>
+                        <Span ForegroundColor="Blue" Text="&#x0a;Pomona, California, "></Span>
+                        <Span>United States</Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+                <Label Grid.Row="3">Residence</Label>
+                <Label Grid.Column="1" Grid.Row="3">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span ForegroundColor="Blue" Text="Los Angeles, California, "></Span>
+                            <Span>United States</Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label Grid.Row="4">Occupation</Label>
+                <Label Grid.Row="4" Grid.Column="1">Actress, businesswoman</Label>
+                <Label Grid.Row="5">Years active</Label>
+                <Label Grid.Row="5" Grid.Column="1">1994-present</Label>
+                <Label Grid.Row="6">Net worth</Label>
+                <Label Grid.Row="6" Grid.Column="1">
+                    <Label.FormattedText>
+                        <FormattedString>
+                                <Span ForegroundColor="#19cd30" Text="&#9650; "></Span>
+                            <Span>$340 million (May 2016)</Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                    </Label>
+                <Label Grid.Row="7">Spouse(s)</Label>
+                <Label Grid.Row="7" Grid.Column="1">Cash Warren (m. 2008)</Label>
+                <Label Grid.Row="8">Childeren</Label>
+                <Label Grid.Row="8" Grid.Column="1">2</Label>
+            </Grid>
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span>Alba began her television and movie appearances at age 13 in Camp Nowhere and The Secret World of Alex Mack (1994). She rose to prominence as the lead actress in the</Span>
+                                <Span ForegroundColor="Blue" Text=" James Cameron "></Span>
+                                <Span>television series Dark Angel (2000–02) when she was 19 years old. Alba later appeared in Honey (2003), Sin City (2005), Fantastic Four (2005), Into the Blue (2005), Fantastic Four: Rise of the Silver Surfer (2007) and Good Luck Chuck (2007).</Span>
+                        </FormattedString>
+                    </Label.FormattedText> </Label>
             <Button x:Name="btnBack" Text="Back" Clicked="btnBack_Clicked"></Button>
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
