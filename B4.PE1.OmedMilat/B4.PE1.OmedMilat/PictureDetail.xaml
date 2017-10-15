@@ -2,11 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="B4.PE1.OmedMilat.PictureDetail"
-             xmlns:local="clr-namespace:B4.PE1.OmedMilat;assembly=B4.PE1.OmedMilat">
+             xmlns:local="clr-namespace:B4.PE1.OmedMilat;assembly=B4.PE1.OmedMilat"
+             Title="Detail">
     <ContentPage.Content>
         <Grid>
             <Grid.RowDefinitions>
-                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
@@ -14,7 +15,8 @@
             </Grid.ColumnDefinitions>
             <local:PinchToZoomContainer>
                 <local:PinchToZoomContainer.Content>
-                    <Image Aspect="AspectFit" Source="{Binding PictureSource }" />
+                    <Image Aspect="AspectFit" Source="{Binding PictureSource}" >
+                    </Image>
                 </local:PinchToZoomContainer.Content>
             </local:PinchToZoomContainer>
             <Button x:Name="btnBack" Text="Back" Grid.Row="1" Clicked="Button_Clicked"></Button>

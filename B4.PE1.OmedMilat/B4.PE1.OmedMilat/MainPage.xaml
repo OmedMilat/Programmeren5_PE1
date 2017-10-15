@@ -5,10 +5,10 @@
              x:Class="B4.PE1.OmedMilat.MainPage">
 
     <StackLayout HorizontalOptions="FillAndExpand">
-        <Label Text="Fotogallerij en Wiki" 
+        <Label Text="Picture Gallery and Wiki" 
            VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-        <Button x:Name="btnPicture" Text="Picture Gallery" Clicked="btnPicture_Clicked"></Button>
-        <Button x:Name="btnWiki" Text="Wiki Page" Clicked="btnWiki_Clicked"></Button>
+           HorizontalOptions="Center" Font="25" />
+        <Button x:Name="btnPicture" Text="Picture Gallery" Clicked="btnPicture_Clicked" HeightRequest="50"></Button>
+        <Button x:Name="btnWiki" Text="Wiki Page" Clicked="btnWiki_Clicked" HeightRequest="50"></Button>
     </StackLayout>
 </ContentPage>

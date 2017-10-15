@@ -24,17 +24,14 @@ namespace B4.PE1.OmedMilat
         }
 
         private async void TapGestureRecognizer_Tapped(object sender, EventArgs e)
-        {            
+        {
             Image image = ((Image)sender);
-            //image.HorizontalOptions = LayoutOptions.Start;
-            //image.VerticalOptions = LayoutOptions.Start;
-            //image.HeightRequest = 100;
-            //image.WidthRequest = 100;
-            var source = new PictureName
+            FileImageSource FileName = image.Source as FileImageSource;
+            PictureName source = new PictureName
             {
-                PictureSource = image.ClassId
+                PictureSource = FileName.File
             };
-            var PictureDetail = new PictureDetail();
+            PictureDetail PictureDetail = new PictureDetail();
             PictureDetail.BindingContext = source;
             await Navigation.PushAsync(PictureDetail);
         }

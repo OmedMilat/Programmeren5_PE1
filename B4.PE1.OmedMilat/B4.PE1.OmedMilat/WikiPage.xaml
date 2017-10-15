@@ -90,6 +90,23 @@ April 28, 1981(age 36)</Span>
                                 <Span>television series Dark Angel (2000–02) when she was 19 years old. Alba later appeared in Honey (2003), Sin City (2005), Fantastic Four (2005), Into the Blue (2005), Fantastic Four: Rise of the Silver Surfer (2007) and Good Luck Chuck (2007).</Span>
                         </FormattedString>
                     </Label.FormattedText> </Label>
+                <Label>In January 2012, Alba co-founded The Honest Company, a consumer goods company that sells non-toxic household products, and owns 15 to 20 percent of the company.</Label>
+                <Label FontSize="Large">Early life</Label>
+            <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span>Alba was born in Pomona, California, to Catherine Louisa (née Jensen) and Mark David Alba. Her mother has Danish, Welsh, German, English, and French ancestry, while her paternal grandparents, who were born in California, were both the children of Mexican immigrants. She has a younger brother, Joshua. Her third cousin, once removed, is writer Gustavo Arellano. Her father's</Span>
+                            <Span ForegroundColor="Blue" Text=" Air Force "></Span>
+                            <Span>career took the family to Biloxi, Mississippi, and Del Rio, Texas, before settling back in Claremont, California, when she was nine years old. Alba has described her family as being a "very conservative family – a traditional, Catholic, Latin American family" and herself as very liberal; she says she had identified herself as a "feminist" as early as age five.
+                            
+Alba's early life was marked by a multitude of physical maladies. During childhood, she suffered from partially collapsed lungs twice, had</Span>
+                            <Span ForegroundColor="Blue" Text=" pneumonia "></Span>
+                            <Span>four to five times a year, as well as a ruptured appendix and a tonsillar cyst. Alba became isolated from other children at school, because she was in the hospital so often due to her illnesses that no one knew her well enough to befriend her. Alba has also had</Span>
+                            <Span ForegroundColor="Blue" Text=" asthma "></Span>
+                            <Span>since she was a child. Alba has said that her family's frequent moving also contributed to her isolation from her peers. She has acknowledged that she suffered from obsessive–compulsive disorder during her childhood. Alba graduated from Claremont High School at age 16, and she subsequently attended the Atlantic Theater Company.</Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
             <Button x:Name="btnBack" Text="Back" Clicked="btnBack_Clicked"></Button>
         </StackLayout>
         </ScrollView>

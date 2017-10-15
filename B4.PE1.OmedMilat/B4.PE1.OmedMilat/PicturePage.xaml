@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="B4.PE1.OmedMilat.PicturePage">
+             x:Class="B4.PE1.OmedMilat.PicturePage"
+             Title="Picture Galery">
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Grid>
+                <Grid Margin="0,0,5,0">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="200"/>
                         <RowDefinition Height="200"/>
@@ -17,7 +18,7 @@
                         <ColumnDefinition Width="auto"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
-                    <Image ClassId="jessica1.jpg"  Aspect="AspectFill" Grid.Row="0" Grid.Column="1" >
+                    <Image Aspect="AspectFill" Grid.Row="0" Grid.Column="1" >
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica1.jpg</On>
@@ -28,7 +29,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica2" Aspect="AspectFill" Grid.Row="0" Grid.Column="2">
+                    <Image Aspect="AspectFill" Grid.Row="0" Grid.Column="2">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica2.jpg</On>
@@ -39,7 +40,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica3" Aspect="AspectFill" Grid.Row="1" Grid.Column="1">
+                    <Image Aspect="AspectFill" Grid.Row="1" Grid.Column="1">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica3.jpg</On>
@@ -50,7 +51,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica4" Aspect="AspectFill" Grid.Row="1" Grid.Column="2">
+                    <Image Aspect="AspectFill" Grid.Row="1" Grid.Column="2">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica4.jpg</On>
@@ -61,7 +62,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica5" Aspect="AspectFill" Grid.Row="2" Grid.Column="1">
+                    <Image Aspect="AspectFill" Grid.Row="2" Grid.Column="1">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica5.jpg</On>
@@ -72,7 +73,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica6" Aspect="AspectFill" Grid.Row="2" Grid.Column="2">
+                    <Image Aspect="AspectFill" Grid.Row="2" Grid.Column="2">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica6.jpg</On>
@@ -83,7 +84,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica7" Aspect="AspectFill" Grid.Row="3" Grid.Column="1">
+                    <Image Aspect="AspectFill" Grid.Row="3" Grid.Column="1">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica7.jpg</On>
@@ -94,7 +95,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica8" Aspect="AspectFill" Grid.Row="3" Grid.Column="2">
+                    <Image Aspect="AspectFill" Grid.Row="3" Grid.Column="2">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica8.jpg</On>
@@ -105,7 +106,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica9"  Aspect="AspectFill" Grid.Row="4" Grid.Column="1">
+                    <Image Aspect="AspectFill" Grid.Row="4" Grid.Column="1">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica9.jpg</On>
@@ -116,7 +117,7 @@
                             <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Image ClassId="jessica10" Aspect="AspectFill" Grid.Row="4" Grid.Column="2">
+                    <Image Aspect="AspectFill" Grid.Row="4" Grid.Column="2">
                         <Image.Source>
                             <OnPlatform x:TypeArguments="ImageSource">
                                 <On Platform="iOS,Android">jessica10.jpg</On>

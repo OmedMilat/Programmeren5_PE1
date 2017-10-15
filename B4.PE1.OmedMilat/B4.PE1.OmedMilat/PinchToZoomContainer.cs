@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 
 namespace B4.PE1.OmedMilat
-{
+{//Meeste van dit gedeelte is van internet gehaald.
     public class PinchToZoomContainer : ContentView
     {
         double currentScale = 1;
@@ -27,39 +27,37 @@ namespace B4.PE1.OmedMilat
             GestureRecognizers.Add(panGesture);
         }
 
-         void OnPanUpdated(object sender, PanUpdatedEventArgs e)
+        void OnPanUpdated(object sender, PanUpdatedEventArgs e)
         {
-            switch (e.StatusType)
+
+            if (e.StatusType == GestureStatus.Running && Content.Scale != 1)
             {
-                case GestureStatus.Running:
-                    // Translate and ensure we don't pan beyond the wrapped user interface element bounds.
-                    Content.TranslationX = Math.Max(Math.Min(0, x + e.TotalX), -Math.Abs(Content.Width - App.ScreenWidth));
-                    Content.TranslationY = Math.Max(Math.Min(0, y + e.TotalY), -Math.Abs(Content.Height - App.ScreenHeight));
-                    break;
-
-                case GestureStatus.Completed:
-                    // Store the translation applied during the pan
-                    x = Content.TranslationX;
-                    y = Content.TranslationY;
-                    break;
-            }
+                // Translate and ensure we don't pan beyond the wrapped user interface element bounds.
+                Content.TranslationX = Math.Max(Math.Min(0, x + e.TotalX), -Math.Abs(Content.Width - App.ScreenWidth));
+                Content.TranslationY = Math.Max(Math.Min(0, y + e.TotalY), -Math.Abs(Content.Height - App.ScreenHeight));
             }
 
-         void TapGesture_Tapped(object sender, EventArgs e)
+            if (e.StatusType == GestureStatus.Completed)
+            {
+                // Store the translation applied during the pan
+                x = Content.TranslationX;
+                y = Content.TranslationY;
+            }
+
+
+        }
+
+        void TapGesture_Tapped(object sender, EventArgs e)
         {
-           
             if (Content.Scale == 1)
             {
-                
                 Content.Scale = 1.5;
-                
             }
             else
             {
-                
+                Content.TranslationX=0;
+                Content.TranslationY=0;
                 Content.Scale = 1.0;
-                
-  
             }
         }
 
